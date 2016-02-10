@@ -1,4 +1,4 @@
-# RelocatableAssembler
+# Relocatable-Assembler
 
 
 This project is a relocatable assembler implemented for MIPS Assembly Language.

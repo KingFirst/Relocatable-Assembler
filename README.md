@@ -7,7 +7,7 @@ This project is a relocatable assembler implemented for MIPS Assembly Language.
 
 * This assembler translates the MIPS Assembly language program into the machine language program (binary).
 * The output program is using [MERL file format](https://www.student.cs.uwaterloo.ca/~cs241/merl/merl.html).
-* This assembler only support limited MIPS instructions, see the list of [supported MIPS instructions](#Supported MIPS Instructions).
+* This assembler only support limited MIPS instructions, see the list of [supported MIPS instructions](#supported-mips-instructions).
 
 
 Compile
@@ -56,7 +56,6 @@ Supported MIPS Instructions
 * `jalr` -- `jalr $s`
 
 More details please see the [MIPS Reference Sheet](https://www.student.cs.uwaterloo.ca/~cs241/mips/mipsref.pdf).
-``
 
 Policy
 ------
